@@ -1,2 +1,2 @@
 # tensorflowbits
-tensorflow stuff
+This repo will contain little tid bits of Tensorflow I have written for practice
